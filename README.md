@@ -1,2 +1,3 @@
 # datasciencecoursera
-Public repo for the Coursera Data Science track
+## Author: Eric Pesch
+Public repo for the Coursera Data Science track 
